@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/profile"
+            android:title="PARTNER" />
+        <item
+            android:id="@+id/lc"
+            android:icon="@drawable/power"
+            android:title="LOG OUT" />
+<!--        <item-->
+<!--            android:id="@+id/nav_gallery"-->
+<!--            android:icon="@drawable/ic_menu_gallery"-->
+<!--            android:title="view drivers" />-->
+<!--        <item-->
+<!--            android:id="@+id/a"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="driver phone mode setting" />-->
+<!--        <item-->
+<!--            android:id="@+id/b"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="view driving logs" />-->
+<!--        <item-->
+<!--            android:id="@+id/c"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="message to partners" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_slideshow"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="view locations" />-->
+    </group>
+</menu>
